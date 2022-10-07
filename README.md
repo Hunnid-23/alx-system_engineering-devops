@@ -1,1 +1,1 @@
-This directory contains tasks for the shell permissions project
+ This repository contains solutions to shell task
