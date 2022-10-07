@@ -1,1 +1,1 @@
-Task 0 complete
+‘This repository contains solutions to shell tasks’
