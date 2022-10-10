@@ -1,1 +1,1 @@
- This repository contains solutions to shell task
+This directory contains tasks for Shell, |/O Redirections Project
